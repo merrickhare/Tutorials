@@ -2,5 +2,5 @@
 
  **Pre Req's**
 
- 1. AWS Account
+ 1. AWS Account - 
  
